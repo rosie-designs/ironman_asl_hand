@@ -1,2 +1,4 @@
 # ironman_asl_hand
-An Iron Man themed robotic hand that signs ASL!
+How would Iron Man save lives if he couldn't speak?
+
+ Introducing our Iron Man robotic hand that signs ASL!
