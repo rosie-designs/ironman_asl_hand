@@ -1,6 +1,7 @@
 # ironman_asl_hand
 ### How would Iron Man save lives if he couldn't speak?
 Introducing our Iron Man robotic hand that signs ASL!
+This was a project we made for a cardboard hackathon that ended up placing 3rd overall.
 
 # Demo
 ![IMG_1625 (1)](https://github.com/user-attachments/assets/bec66d94-a838-4281-a6c3-0fb9147bd0f1)
